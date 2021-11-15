@@ -1,0 +1,10 @@
+main: me.mrliam2614.CustomHelpMessage
+version: 1.0
+name: CustomHelpMessage
+author: MrLiam2614
+commands:
+  help:
+    description: help message
+  helpreload:
+    description: reload Messages
+depend: [FacilitisAPI]

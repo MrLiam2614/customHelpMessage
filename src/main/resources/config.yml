@@ -1,0 +1,17 @@
+helpMessage:
+  header: "&7&m-&r&7[&6Server&7]&7&m-"
+  footer: "&7&m-&r&7[==]&7&m-"
+  list:
+    1:
+      permission: "helpmsg.player"
+      messages:
+        - "&6/home &7- &7Go to your home"
+        - "&6/sethome &7- &7Set your home"
+    2:
+      permission: "helpmsg.mod"
+      messages:
+       - "&6/punish &7- &7Punish a player"
+    3:
+      permission: "helpmsg.admin"
+      messages:
+        - "&c/stop &7- &4STOP THE SERVER &7[&cONLY FOR EMERGENCY&7]"
